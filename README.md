@@ -1,2 +1,2 @@
 # Java
-This is for my java projects.
+This is for my java codes.
