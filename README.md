@@ -1,2 +1,1 @@
-# Java
-This is for my java codes.
+#Competitive programming
