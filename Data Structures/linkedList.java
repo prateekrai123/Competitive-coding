@@ -92,6 +92,7 @@ public class linkedList {
 		Node temp = head;
 		while(temp!=null) {
 			count++;
+			temp = temp.next;
 		}
 		System.out.println(count);
 	}
