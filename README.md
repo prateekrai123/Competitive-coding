@@ -5,7 +5,8 @@
 
 #Searching
 1. [x] Linear Search
-2. [x] Matrix Search
+2. [x] Binary Search
+3. [x] Matrix Search
 
 #Misc
 1. [x] Prefix Sum Array
