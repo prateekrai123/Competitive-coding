@@ -1,14 +1,14 @@
-#Sorting
+# Sorting
 1. [x] Bubble Sort
 2. [x] Merge Sort
 3. [x] Quick Sort
 
-#Searching
+# Searching
 1. [x] Linear Search
 2. [x] Binary Search
 3. [x] Matrix Search
 
-#Misc
+# Misc
 1. [x] Prefix Sum Array
 2. [x] GCD calculation
 3. [x] Kadane's Algorithm
